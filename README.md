@@ -5,7 +5,7 @@ Based on the publication:
 
 X Rodrigues, V S Paliya, S Garrappa, A Omeliukh, A Franckowiak and W Winter, "Leptohadronic multimessenger modeling of 324 gamma-ray blazars" (2023)
 
-# Model parameters
+## Model parameters
 
 The file `model_parameters.csv` contains the best-fit parameters of the model, with each line of the table corresponding to a source in the sample. Is also lists the corresponding flux of neutrinos frome ach source predicted by the model, as well as the peak neutrino energy and event rate in IceCube. 
 
@@ -51,7 +51,7 @@ This generates a pandas DataFrame with the following columns:
 - `'Proton Min Lorentz Factor Fixed'`: Value of the minimum Lorentz factor of the accelerated cosmic-ray protons, before radiative losses, in the jet rest frame. Fixed to 100 for all sources
 - `'Proton Spectral Index Fixed'`: Value of the spectral index of the accelerated cosmic-ray protons (assumed to be a power law), before radiative losses. Fixed to 1 for all sources
 
-# Model results
+## Model results
 
 The `model_results` directory contains one sub-directory for each source, each containing five files:
 
@@ -89,17 +89,22 @@ The `model_results` directory contains one sub-directory for each source, each c
     - `Is Upper Limit`: `0` if the data point is a measurement, `1` if it is an upper limit. 
     
 
-# Cite as 
+## Cite as 
 
 If you use the fluxc predictions or the best-fit parameter values from the leptohadronic model, you may cite the original paper by Rodrigues et al 2023.
 
 All multi-wavelength data used to fit the model were adopted from public catalogs. If using those data,  please cite the respective catalog (see [Paliya et al 2017](https://iopscience.iop.org/article/10.3847/1538-4357/aa98e1) for references).
 
-# References
+## References
 
 [Abdo, A. A. 2010, Astrophys. J., 715, 429](https://iopscience.iop.org/article/10.1088/0004-637X/715/1/429)
+
 [Acero, F. et al. 2015, Astrophys. J. Suppl., 218, 23](https://iopscience.iop.org/article/10.1088/0067-0049/218/2/23)
+
 [Ackermann, M., Ajello, M., Allafort, A., et al. 2011, ApJ, 743, 171](https://iopscience.iop.org/article/10.1088/0004-637X/743/2/171)
+
 [Healey, S. E., Romani, R. W., Cotter, G., et al. 2008, Astrophys. J. Suppl., 175, 97](https://inspirehep.net/literature/760558)
+
 [Paliya, V. S., Marcotulli, L., Ajello, M., et al. 2017, Astrophys. J., 851, 33](https://iopscience.iop.org/article/10.3847/1538-4357/aa98e1)
+
 Rodrigues, X., Paliya, V. S., Garrappa, S. et al. 2023, submitted to A&A
