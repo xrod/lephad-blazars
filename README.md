@@ -6,6 +6,12 @@ Based on the publication:
 X Rodrigues, V S Paliya, S Garrappa, A Omeliukh, A Franckowiak and W Winter, 
 *Leptohadronic Multimessenger Modeling of 324 Gamma-ray Blazars* (2023)
 
+## Example notebook
+
+The notebook `example.ipynb` (Python 3.10) illustrates the usage of the tables in the repository. 
+
+Below we describe in detail the variables and units in each table.
+
 ## Model parameters
 
 The file `model_parameters.csv` contains the best-fit parameters of the model. Each line of the table referes to a source in the sample.
