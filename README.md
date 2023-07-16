@@ -4,7 +4,7 @@ Results from numerical leptohadronic simulations of 324 gamma-ray blazars.
 Based on the publication:
 
 X Rodrigues, V S Paliya, S Garrappa, A Omeliukh, A Franckowiak and W Winter, 
-*Leptohadronic multimessenger modeling of 324 gamma-ray blazars* (2023)
+*Leptohadronic Multimessenger Modeling of 324 Gamma-ray Blazars* (2023)
 
 ## Model parameters
 
