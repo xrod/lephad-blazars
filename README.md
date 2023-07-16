@@ -32,7 +32,7 @@ This generates a pandas DataFrame with the following columns:
 - `'Fermi-LAT Flux'`: Gamma-ray flux in the Fermi-LAT range, provided in the respective *LAC catalog [erg/cm2/s]
 - `'Disk Luminosity'`: Accretion disk luminsity deduced by [Paliya et al 2017](https://iopscience.iop.org/article/10.3847/1538-4357/aa98e1) [erg/s]
 - `'BLR Radius'`: Broad line region radius deduced by [Paliya et al 2017](https://iopscience.iop.org/article/10.3847/1538-4357/aa98e1) [erg/s]
-- `'Black Hole Mass'`: Black hole mass estimated by [Paliya et al 2017](https://iopscience.iop.org/article/10.3847/1538-4357/aa98e1) [solar masses]
+- `'Black Hole Mass'`: Black hole mass estimated by [Paliya et al 2017](https://iopscience.iop.org/article/10.3847/1538-4357/aa98e1) [solar mass units]
 - `'Muon Neutrino Flux Best Fit'`: Total muon neutrino flux in the observer's frame predicted by the model [erg/cm2/s]
 - `'Muon Neutrino Flux Min'`: Minimum muon neutrino flux in the observer's frame predicted by the model within 1σ of the best fit [erg/cm2/s]
 - `'Muon Neutrino Flux Max'`: Maximum muon neutrino flux in the observer's frame predicted by the model within 1σ of the best fit [erg/cm2/s]
