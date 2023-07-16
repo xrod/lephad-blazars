@@ -8,7 +8,7 @@ X Rodrigues, V S Paliya, S Garrappa, A Omeliukh, A Franckowiak and W Winter,
 
 ## Example notebook
 
-The notebook `example.ipynb` (Python 3.10) illustrates the usage of the tables in the repository. 
+The notebook `example.ipynb` (Python 3.10) illustrates the usage of the tables in this repository. 
 
 Below we describe in detail the variables and units in each table.
 
