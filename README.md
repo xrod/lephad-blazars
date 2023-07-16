@@ -58,11 +58,11 @@ This generates a pandas DataFrame with the following columns:
 
 The `model_results` directory contains one sub-directory for each source, each containing five files:
 
-- `sourcename_flux_components.pdf`: A plot of the SED components separted by their emission mechanism. The color code follows that in Fig. 4 of Rodrigues et al 2023
+- `sourcename_flux_components.pdf`: Plot of the SED components separted by their emission mechanism. The color code follows that in Fig. 4 of Rodrigues et al 2023
 
-- `sourcename_flux_total.pdf`: A plot of the total predicted multi-wavelength and neutrino emitted by each source, in the style of Fig. 6 of Rodrigues et al 2023
+- `sourcename_flux_total.pdf`: Plot of the total predicted multi-wavelength and neutrino emitted by each source, in the style of Fig. 6 of Rodrigues et al 2023
 
-- `sourcename_flux_photons`: A comma-separated table with the best-fit photon fluxes predicted by the model. When imported the same way as shown above, this generates a data frame with the folowing columns:
+- `sourcename_flux_photons`: Comma-separated table with the best-fit photon fluxes predicted by the model. When imported the same way as shown above, this generates a data frame with the folowing columns:
 
     - `Energy`: Photon energy grid given in the observer's frame [eV]
 
