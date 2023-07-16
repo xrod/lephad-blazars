@@ -3,11 +3,14 @@ Results from numerical leptohadronic simulations of 324 gamma-ray blazars.
 
 Based on the publication:
 
-X Rodrigues, V S Paliya, S Garrappa, A Omeliukh, A Franckowiak and W Winter, "Leptohadronic multimessenger modeling of 324 gamma-ray blazars" (2023)
+X Rodrigues, V S Paliya, S Garrappa, A Omeliukh, A Franckowiak and W Winter, 
+*Leptohadronic multimessenger modeling of 324 gamma-ray blazars* (2023)
 
 ## Model parameters
 
-The file `model_parameters.csv` contains the best-fit parameters of the model, with each line of the table corresponding to a source in the sample. Is also lists the corresponding flux of neutrinos frome ach source predicted by the model, as well as the peak neutrino energy and event rate in IceCube. 
+The file `model_parameters.csv` contains the best-fit parameters of the model. Each line of the table referes to a source in the sample.
+
+It also lists the corresponding flux of neutrinos frome ach source predicted by the model, as well as the peak neutrino energy and event rate in IceCube. 
 
 The table can be loaded, for example, in Python using Pandas: 
 
@@ -91,9 +94,9 @@ The `model_results` directory contains one sub-directory for each source, each c
 
 ## Cite as 
 
-If you use the fluxc predictions or the best-fit parameter values from the leptohadronic model, you may cite the original paper by Rodrigues et al 2023.
+If you use the flux predictions or the best-fit parameter values from the leptohadronic model, you may cite the original paper by Rodrigues et al 2023.
 
-All multi-wavelength data used to fit the model were adopted from public catalogs. If using those data,  please cite the respective catalog (see [Paliya et al 2017](https://iopscience.iop.org/article/10.3847/1538-4357/aa98e1) for references).
+All multi-wavelength data used to fit the model were adopted from public catalogs. If using those data, please cite the respective catalog (see [Paliya et al 2017](https://iopscience.iop.org/article/10.3847/1538-4357/aa98e1)  references therein).
 
 ## References
 
