@@ -103,7 +103,7 @@ The `model_results` directory contains one sub-directory for each source, each c
 
 If you use the flux predictions or the best-fit parameter values from the leptohadronic model, you may cite the original paper by Rodrigues et al 2023.
 
-All multi-wavelength data used to fit the model were adopted from public catalogs. If using those data, please cite the respective catalog (see [Paliya et al 2017](https://iopscience.iop.org/article/10.3847/1538-4357/aa98e1)  references therein).
+All multi-wavelength data used to fit the model were adopted from public catalogs. If using those data, please cite the respective catalog (see [Paliya et al 2017](https://iopscience.iop.org/article/10.3847/1538-4357/aa98e1)  and references therein).
 
 ## References
 
