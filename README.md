@@ -3,8 +3,8 @@ Results from numerical leptohadronic simulations of 324 gamma-ray blazars.
 
 Based on the publication:
 
-X Rodrigues, V S Paliya, S Garrappa, A Omeliukh, A Franckowiak and W Winter, 
-*Leptohadronic Multimessenger Modeling of 324 Gamma-ray Blazars* (2023)
+X Rodrigues, V S Paliya, S Garrappa, A Omeliukh, A Franckowiak and W Winter,
+[*Leptohadronic Multimessenger Modeling of 324 Gamma-ray Blazars* (2023)](https://arxiv.org/abs/2307.13024)
 
 ## Example notebook
 
@@ -117,4 +117,4 @@ All multi-wavelength data used to fit the model were adopted from public catalog
 
 [Paliya, V. S., Marcotulli, L., Ajello, M., et al. 2017, Astrophys. J., 851, 33](https://iopscience.iop.org/article/10.3847/1538-4357/aa98e1)
 
-Rodrigues, X., Paliya, V. S., Garrappa, S. et al. 2023, submitted to A&A
+[Rodrigues, X., Paliya, V. S., Garrappa, S. et al. 2023, submitted to A&A (arXiv:2307.13024)](https://arxiv.org/abs/2307.13024)
